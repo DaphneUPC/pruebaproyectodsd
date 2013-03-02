@@ -1,1 +1,3 @@
+Apache license 2.0
+
 COPYRIGHT @JOSE DIAZ 2013
